@@ -12,11 +12,11 @@ This is a hotel reservation project based on react js. Work only for front-end d
 
 ## Project Images
 ### Home View
-![Home view](images/BeachHome.PNG)
+![Home view](images/BeachHome.png)
 ### All rooms View
-![Rooms view](images/BeachRoom.PNG)
+![Rooms view](images/BeachRoom.png)
 ### Room details View
-![Details view](images/BeachDetails.PNG)
+![Details view](images/BeachDetails.png)
 ## Install packages
 ```
 npm install 
